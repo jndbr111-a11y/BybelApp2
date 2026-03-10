@@ -1,0 +1,5 @@
+{
+  "name": "Bybelstudie-Assistent",
+  "description": "Gevorderde Bybelstudie-assistent vir teologiese eksegese.",
+  "requestFramePermissions": ["microphone"]
+}

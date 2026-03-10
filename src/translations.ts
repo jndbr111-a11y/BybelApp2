@@ -1,0 +1,28 @@
+export const translations = {
+  af: {
+    title: "Bybelstudie-Assistent",
+    subtitle: "Vir Ds. Jan de Beer",
+    inputLabel: "Voer 'n teksgedeelte of teologiese vraag in:",
+    placeholder: "Byvoorbeeld: 'Ontleed Romeine 8:28' of 'Wat is die teologiese betekenis van genade?'",
+    analyzeButton: "Ontleed Teks",
+    summarizeButton: "AI Opsomming",
+    crossReferencesButton: "Kruisverwysings",
+    saveToDocsButton: "Stoor in Docs",
+    openDocButton: "Maak Doc oop",
+    downloadTextButton: "Laai af as Teks",
+    language: "Taal",
+  },
+  en: {
+    title: "Bible Study Assistant",
+    subtitle: "For Rev. Jan de Beer",
+    inputLabel: "Enter a text passage or theological question:",
+    placeholder: "Example: 'Analyze Romans 8:28' or 'What is the theological meaning of grace?'",
+    analyzeButton: "Analyze Text",
+    summarizeButton: "AI Summary",
+    crossReferencesButton: "Cross-references",
+    saveToDocsButton: "Save to Docs",
+    openDocButton: "Open Doc",
+    downloadTextButton: "Download as Text",
+    language: "Language",
+  },
+};
